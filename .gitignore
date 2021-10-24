@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 .vscode/settings.json
+src/com/annt2008110023/lab6/Dog.java
+src/com/annt2008110023/lab6/DogTestDrive.java
+src/com/annt2008110023/tuan07/Amoeba.java
+src/com/annt2008110023/tuan07/IntSquare.java
+src/com/annt2008110023/tuan07/Shape.java
+src/com/annt2008110023/tuan07/Circle.java
+.gitignore
