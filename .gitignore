@@ -29,3 +29,8 @@ src/com/annt2008110023/tuan07/IntSquare.java
 src/com/annt2008110023/tuan07/Shape.java
 src/com/annt2008110023/tuan07/Circle.java
 .gitignore
+src/com/annt2008110023/tuan08/Animal.java
+src/com/annt2008110023/tuan08/EmployeeTestDrive.java
+src/com/annt2008110023/tuan08/Person.java
+src/com/annt2008110023/tuan08/Hippo.java
+src/com/annt2008110023/tuan08/HippoTestDrive.java
